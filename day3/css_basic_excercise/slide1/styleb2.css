@@ -1,0 +1,13 @@
+
+
+div {
+    background-color: green;
+    padding: 20px; 
+}
+
+ul {
+    background-color: red;
+    padding: 10px;
+    list-style: inside;
+}
+
